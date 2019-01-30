@@ -8,4 +8,7 @@ function updateObjectWithKeyAndValue (object, key, value){
 return obj;
 }
 
-updateObjectWithKeyAndValue(obj, 'prop2', 2);
+function updateObjectWithKeyAndValue (object, key, value){
+  updateObjectWithKeyAndValue(obj, 'prop2', 2);
+return obj;
+}
