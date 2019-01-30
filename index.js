@@ -9,4 +9,3 @@ return obj;
 }
 
 updateObjectWithKeyAndValue(obj, 'prop2', 2);
-
