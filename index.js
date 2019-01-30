@@ -1,1 +1,1 @@
-function Objects (recipes){}
+function Objects (recipes){};
