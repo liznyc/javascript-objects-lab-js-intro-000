@@ -1,8 +1,5 @@
-var recipes = {}; /*describe('Objects', function() {
-  it('defines a `recipes` object', function() {
-    expect(typeof recipes).toEqual('object')
-  })*/
+var recipes = new Object();
 
 function updateObjectWithKeyAndValue (object, key, value){
-return Object.assign({}, obj, {[key]: value});
+return Object.assign({}, object, {[key]: value});
 }
