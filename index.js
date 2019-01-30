@@ -6,7 +6,7 @@ var recipes = {}; /*describe('Objects', function() {
 function updateObjectWithKeyAndValue (object, key, value){
   var obj = { prop: 1 };
   obj.prop2 = 2;
-  var obj = { prop: 'old value' };
+  obj.prop = 'old value';
   var newObj = {prop: 'new value'};
 return obj;
 }
