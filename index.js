@@ -1,1 +1,1 @@
-function Objects (recipes, , ){};
+var Objects = new Object(recipes);
